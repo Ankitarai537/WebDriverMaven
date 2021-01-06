@@ -25,6 +25,7 @@ public class PracticeTest {
 		{
 			System.out.println("hiiii");
 			Thread.sleep(8000);
+			System.out.println("khadoos");
 			driver.findElement(By.xpath("//input[@title='Search']")).sendKeys("Amazon");
 		}
 	}
