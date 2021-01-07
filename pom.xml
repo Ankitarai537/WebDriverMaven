@@ -236,7 +236,7 @@
 
 <testResource>
 
-<directory>src/test/resources/Com/Amazon/properties</directory>
+<directory>C:\Users\ANKITA\Desktop\OOPS\GitWebdriverMaven\src\test\resources\Properties</directory>
 
 
 <includes>
